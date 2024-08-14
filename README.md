@@ -2,7 +2,7 @@
 
 ## Introducing: Frost-Hub
 
-Unlock the full potential of your Roblox experience with our non-obfuscated script for NYX. Say goodbye to complexity and hello to clarity!
+Unlock the full potential of your Roblox experience with scripts for Executors. Say goodbye to complexity and hello to clarity!
 
 ## Features
 - **User-Friendly:** Easy to read and understand.
